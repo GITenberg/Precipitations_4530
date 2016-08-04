@@ -1,0 +1,30 @@
+_repo: Precipitations_4530
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, Evelyn
+    aliases:
+    - Wellman, Elsie Dunn
+    - Scott, Evelyn D. (Evelyn Dunn)
+    - Dunn, Elsie
+    - Metcalfe, Elsie Dunn Wellman
+    birthdate: 1893
+    deathdate: 1963
+    gutenberg_agent_id: '1494'
+    url: http://www.gutenberg.org/2009/agents/1494
+    wikipedia: http://en.wikipedia.org/wiki/Evelyn_Scott
+description: ''
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4530'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry -- 20th century'
+- GITenberg
+title: Precipitations
+url: http://www.gutenberg.org/ebooks/4530
